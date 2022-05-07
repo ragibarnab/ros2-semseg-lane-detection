@@ -1,0 +1,8 @@
+/**:
+  ros__parameters:
+    weights_file: "data/perception/erfnet_baseline_tusimple.pt"
+    lane_conf_thresh: 0.9
+    prob_conf_thresh: 0.8
+    size_thresh: 100
+    rsquared_thresh: 0.9
+    
